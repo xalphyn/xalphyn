@@ -4,14 +4,15 @@
 
 <div align="center">
  
-'''
+```text
 ██╗  ██╗ █████╗ ██╗     ██████╗ ██╗  ██╗██╗   ██╗███╗   ██╗
 ╚██╗██╔╝██╔══██╗██║     ██╔══██╗██║  ██║╚██╗ ██╔╝████╗  ██║
  ╚███╔╝ ███████║██║     ██████╔╝███████║ ╚████╔╝ ██╔██╗ ██║
  ██╔██╗ ██╔══██║██║     ██╔═══╝ ██╔══██║  ╚██╔╝  ██║╚██╗██║
 ██╔╝ ██╗██║  ██║███████╗██║     ██║  ██║   ██║   ██║ ╚████║
 ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝     ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═══╝
-'''
+```
+
 ### Open Source • Arch Linux • Python • Creative Development
 
 Building software.
@@ -20,7 +21,7 @@ Creating with intention.
 
 ---
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&pause=2500&color=58A6FF&center=true&vCenter=true&width=700&lines=Learning+something+new+every+day.;Python+Developer.;Arch+Linux+User.;Open+Source+Enthusiast.;Git+%26+GitHub.;Creating+without+limits."/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&pause=2500&color=58A6FF&center=true&vCenter=true&width=700&lines=Learning+something+new+every+day;Python+Developer;Arch+Linux+User;Open+Source+Enthusiast;Git+%26+GitHub;Creating+without+limits"/>
 
 </div>
 
