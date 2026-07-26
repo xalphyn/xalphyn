@@ -152,18 +152,12 @@ When I'm away from code, you'll probably find me exploring synthwave music, lear
 <p align="center">
 
 <a href="https://github.com/xalphyn">GitHub</a>
-
 •
-
 <a href="https://youtube.com/@xalphyn">YouTube</a>
-
 •
-
 <a href="https://instagram.com/xalphyn">Instagram</a>
-
 •
-
-<a href="https://threads.net/@xalphyn">Threads</a>
+<a href="https://threads.com/@xalphyn">Threads</a>
 
 </p>
 
