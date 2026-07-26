@@ -1,151 +1,119 @@
-<!-- ================================================= -->
-<!--              X A L P H Y N                        -->
-<!-- ================================================= -->
+<!-- ========================================================= -->
+<!--                         XALPHYN                            -->
+<!-- ========================================================= -->
 
 <div align="center">
+
+# X A L P H Y N
+
+### Open Source • Arch Linux • Python • Creative Development
+
+Building software.
+Learning continuously.
+Creating with intention.
+
+---
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&pause=2500&color=58A6FF&center=true&vCenter=true&width=700&lines=Learning+something+new+every+day.;Python+Developer.;Arch+Linux+User.;Open+Source+Enthusiast.;Git+%26+GitHub.;Creating+without+limits."/>
+
+</div>
+
+---
+
+# About
+
+```python
+class XALPHYN:
+
+    def __init__(self):
+
+        self.interests = [
+            "Programming",
+            "Open Source",
+            "Linux",
+            "Python",
+            "Creative Development",
+            "Synthwave"
+        ]
+
+        self.currently_learning = [
+            "Python",
+            "Git",
+            "GitHub",
+            "Algorithms",
+            "Data Structures"
+        ]
+
+        self.next_targets = [
+            "C++",
+            "JavaScript",
+            "TypeScript",
+            "Rust",
+            "Go"
+        ]
+
+    def philosophy(self):
+        return "Learning and building every day."
+```
+
+---
+
+# Current Focus
+
+- Learning Python
+- Exploring Open Source
+- Building personal projects
+- Improving problem-solving
+- Understanding software engineering fundamentals
+- Growing one commit at a time
+
+---
+
+# Tech
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,c,html,css,js,git,github,linux,bash,vscode"/>
+
+</p>
+
+---
+
+# Environment
 
 ```text
-██╗  ██╗ █████╗ ██╗     ██████╗ ██╗  ██╗██╗   ██╗███╗   ██╗
-╚██╗██╔╝██╔══██╗██║     ██╔══██╗██║  ██║╚██╗ ██╔╝████╗  ██║
- ╚███╔╝ ███████║██║     ██████╔╝███████║ ╚████╔╝ ██╔██╗ ██║
- ██╔██╗ ██╔══██║██║     ██╔═══╝ ██╔══██║  ╚██╔╝  ██║╚██╗██║
-██╔╝ ██╗██║  ██║███████╗██║     ██║  ██║   ██║   ██║ ╚████║
-╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝     ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═══╝
+OS        : Arch Linux
+
+Shell     : Bash
+
+Editor    : Visual Studio Code
+
+Terminal  : Kitty
+
+Version   : Git
+
+Learning  : Python
 ```
 
+---
 
-### Full Stack Developer • AI Automation • Open Source • Linux
+# GitHub Statistics
 
-Building secure applications, automation systems and modern web experiences.
+<div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Linux+Enthusiast;WordPress+Security;AI+Automation;Open+Source+Contributor;Always+Learning..." />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=xalphyn&theme=github_dark&hide_border=true&show_icons=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=xalphyn&theme=github-dark&hide_border=true"/>
 
 </div>
 
 ---
 
-# About Me
-
-```cpp
-class Developer
-{
-public:
-
-    string Name = "Muaaz Aamir";
-
-    string Alias = "XALPHYN";
-
-    string Country = "Pakistan";
-
-    string Focus =
-    {
-        "Full Stack Development",
-        "Artificial Intelligence",
-        "Automation",
-        "Linux",
-        "Cyber Security",
-        "Open Source"
-    };
-
-    string CurrentlyLearning =
-    {
-        "JavaScript",
-        "TypeScript",
-        "React",
-        "Next.js",
-        "Node.js",
-        "Docker",
-        "N8N",
-        "WordPress Development"
-    };
-
-    string Goal =
-    "Build products that solve real-world problems.";
-
-};
-```
-
----
-
-# Tech Stack
-
-### Languages
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,cpp"/>
-
-</p>
-
----
-
-### Frontend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite"/>
-
-</p>
-
----
-
-### Backend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,firebase"/>
-
-</p>
-
----
-
-### DevOps
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=linux,docker,git,github,bash"/>
-
-</p>
-
----
-
-### Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=vscode,figma,wordpress,blender,photoshop"/>
-
-</p>
-
----
-
-# Current Projects
-
-- Malware Removal Platform
-- AI Automation Workflows
-- WordPress Security
-- Full Stack Applications
-- Linux Development Environment
-
----
-
-# GitHub Stats
+# Languages
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=xalphyn&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=xalphyn&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# Most Used Languages
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xalphyn&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xalphyn&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
@@ -155,29 +123,27 @@ public:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=xalphyn&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=xalphyn&theme=github-dark&hide_border=true"/>
 
 </div>
 
 ---
 
-# Trophy Showcase
+# Philosophy
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=xalphyn&theme=algolia&margin-w=10&no-frame=true"/>
-
-</div>
+> Software is never finished.
+>
+> Every project teaches something.
+>
+> Every bug improves understanding.
+>
+> Every commit is progress.
 
 ---
 
-# Development Metrics
+# Outside the Terminal
 
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xalphyn&theme=github_dark"/>
-
-</div>
+When I'm away from code, you'll probably find me exploring synthwave music, learning new technologies, or working on creative ideas that blend technology and imagination.
 
 ---
 
@@ -185,40 +151,36 @@ public:
 
 <p align="center">
 
-<a href="https://github.com/xalphyn">
-GitHub
-</a>
+<a href="https://github.com/xalphyn">GitHub</a>
 
 •
 
-<a href="https://youtube.com/@xalphyn">
-YouTube
-</a>
+<a href="https://youtube.com/@xalphyn">YouTube</a>
 
 •
 
-<a href="https://instagram.com/xalphyn">
-Instagram
-</a>
+<a href="https://instagram.com/xalphyn">Instagram</a>
 
 •
 
-<a href="https://threads.net/@xalphyn">
-Threads
-</a>
+<a href="https://threads.net/@xalphyn">Threads</a>
 
 </p>
-![Profile Views](https://komarev.com/ghpvc/?username=xalphyn&color=blueviolet)
 
-![Followers](https://img.shields.io/github/followers/xalphyn?style=for-the-badge)
-
-![Stars](https://img.shields.io/github/stars/xalphyn?affiliations=OWNER&style=for-the-badge)
-
-![License](https://img.shields.io/badge/Open--Source-Love-blue)
 ---
 
 <div align="center">
 
-### "Build. Learn. Improve. Repeat."
+```
+while(True):
+
+    Learn()
+
+    Build()
+
+    Improve()
+
+    Repeat()
+```
 
 </div>
