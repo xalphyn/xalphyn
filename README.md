@@ -1,5 +1,12 @@
 <!-- ================================================= -->
-<!--                  X A L P H Y N                     -->
+<!--                  
+██╗  ██╗ █████╗ ██╗     ██████╗ ██╗  ██╗██╗   ██╗███╗   ██╗
+╚██╗██╔╝██╔══██╗██║     ██╔══██╗██║  ██║╚██╗ ██╔╝████╗  ██║
+ ╚███╔╝ ███████║██║     ██████╔╝███████║ ╚████╔╝ ██╔██╗ ██║
+ ██╔██╗ ██╔══██║██║     ██╔═══╝ ██╔══██║  ╚██╔╝  ██║╚██╗██║
+██╔╝ ██╗██║  ██║███████╗██║     ██║  ██║   ██║   ██║ ╚████║
+╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝     ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═══╝                     
+-->
 <!-- ================================================= -->
 
 <div align="center">
@@ -200,7 +207,13 @@ Threads
 </a>
 
 </p>
+![Profile Views](https://komarev.com/ghpvc/?username=xalphyn&color=blueviolet)
 
+![Followers](https://img.shields.io/github/followers/xalphyn?style=for-the-badge)
+
+![Stars](https://img.shields.io/github/stars/xalphyn?affiliations=OWNER&style=for-the-badge)
+
+![License](https://img.shields.io/badge/Open--Source-Love-blue)
 ---
 
 <div align="center">
