@@ -13,7 +13,6 @@
 ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝     ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═══╝
 ```
 
-```
 
 ### Full Stack Developer • AI Automation • Open Source • Linux
 
