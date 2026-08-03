@@ -95,7 +95,7 @@ class XALPHYN:
 ```text
 OS        : Arch Linux
 
-Shell     : Bash
+Shell     : zsh
 
 Editor    : Visual Studio Code
 
